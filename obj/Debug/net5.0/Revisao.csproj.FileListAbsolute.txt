@@ -1,0 +1,16 @@
+D:\GFT - curso\.NET\Revisao\bin\Debug\net5.0\Revisao.exe
+D:\GFT - curso\.NET\Revisao\bin\Debug\net5.0\Revisao.deps.json
+D:\GFT - curso\.NET\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+D:\GFT - curso\.NET\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+D:\GFT - curso\.NET\Revisao\bin\Debug\net5.0\Revisao.dll
+D:\GFT - curso\.NET\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+D:\GFT - curso\.NET\Revisao\bin\Debug\net5.0\Revisao.pdb
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.dll
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.pdb
+D:\GFT - curso\.NET\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
